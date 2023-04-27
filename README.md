@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian Fabricio Feugeas</h1>
 <h3 align="center">A passionate Full Stack MERN Developer & Mobile Apps</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianfeugeas" alt="ianfeugeas" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianfeugeas" alt="ianfeugeas" /></a> </p> -->
 
 - 📫 How to reach me **ianfabricio1889@gmail.com**
 
